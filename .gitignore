@@ -23,6 +23,7 @@
 !*.v
 !*.bd
 !*.edif
+!rom.data
 #########
 #IP files
 #########

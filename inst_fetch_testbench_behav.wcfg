@@ -12,12 +12,12 @@
    </db_ref_list>
    <zoom_setting>
       <ZoomStartTime time="0fs"></ZoomStartTime>
-      <ZoomEndTime time="146106385fs"></ZoomEndTime>
+      <ZoomEndTime time="1134655969fs"></ZoomEndTime>
       <Cursor1Time time="690000000fs"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
       <NameColumnWidth column_width="175"></NameColumnWidth>
-      <ValueColumnWidth column_width="126"></ValueColumnWidth>
+      <ValueColumnWidth column_width="122"></ValueColumnWidth>
    </column_width_setting>
    <WVObjectSize size="5" />
    <wvobject type="logic" fp_name="/inst_fetch_testbench/clk">
