@@ -24,6 +24,8 @@
 !*.bd
 !*.edif
 !rom.data
+!*.png
+!*.md
 #########
 #IP files
 #########
