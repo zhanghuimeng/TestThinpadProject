@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../TestThinpadProject.srcs/sources_1/new/inst_fetch.vhd"
+vhdl xil_defaultlib  "../../../TestThinpadProject.srcs/sources_1/new/pc_reg.vhd"
+vhdl xil_defaultlib  "../../../TestThinpadProject.srcs/sources_1/new/rom.vhd"
+
+# Do not sort compile order
+nosort
